@@ -2,8 +2,8 @@
 
 **World Cup Historical Analysis** is a data analysis project that explores 90 years of FIFA World Cup data ahead of the 2026 tournament. The project uses Pandas for data cleaning and transformation, NumPy for conditional logic, and Matplotlib for visualizations, uncovering patterns in team performance, home advantage, goal scoring trends, and stage dominance.
 
-![Win Rates](assets/winrates.png)
-![Goals by Stage](assets/goals_by_stage.png)
+![Win Rates](winrates.png)
+![Goals by Stage](goals.png)
 
 ---
 
